@@ -19,9 +19,8 @@ This repository is designed to help you learn and practice data structures and a
 
 You can navigate through the repository to find the specific topic you're interested in. Each topic's directory contains:
 
-1. Code implementations in multiple programming languages (e.g., C++, Python, Java).
-2. Detailed explanations of the data structure or algorithm and its key concepts.
-3. Example usage of the data structure or algorithm.
+1. Code implementations in  C programming language.
+2. Example usage of the data structure or algorithm.
 
 Feel free to explore the code, run it on your machine, and modify it to experiment with different scenarios. This repository is meant to be a learning resource, so take your time to understand the concepts and adapt the code to your needs.
 
